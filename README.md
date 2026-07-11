@@ -1,9 +1,8 @@
-# 💫 About Me:
-1. I am SANGU.<br>
-2. I am a BCA (Bachelor of Computer Applications) student.<br>
-3. I prefer direct, concise answers without unnecessary details.<br>
-4. Learning, solving problems, and getting information.<br>
-5. I like practical, straightforward communication that gets to the point.<br>
+I am SANGAMESH.<br>
+am a BCA (Bachelor of Computer Applications) student.<br>
+i prefer direct, concise answers without unnecessary details.<br>
+Learning, solving problems, and getting information.<br>
+i like practical, straightforward communication that gets to the point.<br>
 
 
 ## 🌐 Socials:
